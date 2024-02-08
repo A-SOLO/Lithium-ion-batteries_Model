@@ -62,3 +62,5 @@ and MAE is Mean Absolute Error of the model. Define the function as follows:
                                def Estimate_error(dataframe)  
                                .....  
                                return [RMSE, MAE]
+# License:
+[MIT LICENSE](https://github.com/A-SOLO/Lithium-ion-batteries_Model/blob/main/LICENSE)
